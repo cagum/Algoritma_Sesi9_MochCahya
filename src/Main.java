@@ -66,6 +66,8 @@ public class Main {
 
         System.out.println("total warga yang membayar zakat dengan uang : " + totalMembayarUang);
         System.out.println("total warga yang membayar zakat dengan beras : " + totalMembayarBeras);
+        System.out.println("total uang zakat terkumpul : " + (totalMembayarUang * 2.5));
+        System.out.println("total beras zakat terkumpul : " + (totalMembayarBeras * 35000));
         System.out.println("total uang sedekah : " + totalUangSedekah);
 
     }
